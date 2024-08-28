@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-28T18:59:19 IST" name="Default suite" finished-at="2024-08-28T18:59:24 IST" duration-ms="5068">
+    <groups>
+    </groups>
+    <test started-at="2024-08-28T18:59:19 IST" name="Default test" finished-at="2024-08-28T18:59:24 IST" duration-ms="5068">
+      <class name="Mile_4.CRUDOperations">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Mile_4.CRUDOperations@7c7a06ec]" started-at="2024-08-28T18:59:19 IST" name="setup" finished-at="2024-08-28T18:59:20 IST" duration-ms="667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="createPerson()[pri:0, instance:Mile_4.CRUDOperations@7c7a06ec]" started-at="2024-08-28T18:59:20 IST" name="createPerson" finished-at="2024-08-28T18:59:23 IST" duration-ms="2694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createPerson -->
+        <test-method signature="deletePerson()[pri:0, instance:Mile_4.CRUDOperations@7c7a06ec]" started-at="2024-08-28T18:59:23 IST" name="deletePerson" finished-at="2024-08-28T18:59:23 IST" duration-ms="459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletePerson -->
+        <test-method signature="getAllPersons()[pri:0, instance:Mile_4.CRUDOperations@7c7a06ec]" started-at="2024-08-28T18:59:23 IST" name="getAllPersons" finished-at="2024-08-28T18:59:23 IST" duration-ms="177" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllPersons -->
+        <test-method signature="getPersonWithId()[pri:0, instance:Mile_4.CRUDOperations@7c7a06ec]" started-at="2024-08-28T18:59:23 IST" name="getPersonWithId" finished-at="2024-08-28T18:59:24 IST" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPersonWithId -->
+        <test-method signature="patchPartialUpdatePersonDetails()[pri:0, instance:Mile_4.CRUDOperations@7c7a06ec]" started-at="2024-08-28T18:59:24 IST" name="patchPartialUpdatePersonDetails" finished-at="2024-08-28T18:59:24 IST" duration-ms="429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- patchPartialUpdatePersonDetails -->
+        <test-method signature="updatePersonDetails()[pri:0, instance:Mile_4.CRUDOperations@7c7a06ec]" started-at="2024-08-28T18:59:24 IST" name="updatePersonDetails" finished-at="2024-08-28T18:59:24 IST" duration-ms="412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updatePersonDetails -->
+      </class> <!-- Mile_4.CRUDOperations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
